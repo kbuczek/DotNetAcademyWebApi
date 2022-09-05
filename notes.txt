@@ -1,0 +1,4 @@
+Record types:
+1. use for immutable objects.
+2. With-expressions support.
+3. Value-based equality support.

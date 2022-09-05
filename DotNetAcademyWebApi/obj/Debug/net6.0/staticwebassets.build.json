@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mjlh1jkYy9zKRFUnOSl1E7QxA7Yz1wl/9H+fEkC/Pl0=",
+  "Source": "DotNetAcademyWebApi",
+  "BasePath": "_content/DotNetAcademyWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
