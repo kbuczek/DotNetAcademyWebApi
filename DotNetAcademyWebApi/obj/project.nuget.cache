@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZbmLSD6FMKs5RkTqfsS7tMIWilA6hFGvK+lk+uvzRE0wOHyxJ07WUD6epo2tegefEuiUkkjest5YSn9n93c7A==",
+  "dgSpecHash": "lBux4r/U/Fxgj9fQ6hzdt5D2xsnV00l6Gj3WT3kTeOxoyj/HGsFg7crNZM42kSewipWdTS/5RUtwj3AOCw7oYw==",
   "success": true,
-  "projectFilePath": "D:\\.NET\\DotNetAcademyWebApi\\DotNetAcademyWebApi\\DotNetAcademyWebApi.csproj",
+  "projectFilePath": "C:\\Users\\krzys\\Documents\\github_kbuczek\\DotNetAcademyWebApi\\DotNetAcademyWebApi\\DotNetAcademyWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krzys\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\krzys\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

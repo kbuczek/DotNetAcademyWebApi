@@ -6,7 +6,7 @@ using DotNetAcademyWebApi.DTOs;
 
 namespace DotNetAcademyWebApi.Controllers
 {
-    [ApiController] //mark this class as ApiController, brings a bunch of additional default behaviours
+    [ApiController] //mark this class as ApiController, brings a bunch of additional default behaviours.
     [Route("[controller]")] //"/items"
     public class ItemsController : ControllerBase
     {
