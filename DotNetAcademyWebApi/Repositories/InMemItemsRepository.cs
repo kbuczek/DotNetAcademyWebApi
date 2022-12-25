@@ -11,7 +11,7 @@ namespace DotNetAcademyWebApi.Repositories
             new Item { Id = Guid.NewGuid(), Name = "Bronze Shield", Price = 18, CreatedDate = DateTimeOffset.UtcNow }
         };
 
-        public IEnumerable<Item> GetItems() //IEnumerable - git ignore
+        public IEnumerable<Item> GetItems() //IEnumerable - git ignore test
         {
             return items;
         }
